@@ -4,9 +4,12 @@
   color: white;
   border-radius: 5px;
 }
-.header{background-image:url(../Assets/Hero-bg.png);      }
-
-.bold{font-weight:bold ;
+.Ns{border-radius: 5px;}
+.header{background-image:url(../Assets/Hero-bg.png);  margin:20px
+    }
+    .bt{font-weight:bold ;margin: auto;font-size: 30px;background-color: blue;text-align: left;width: 229px;height:48px ;}
+.section{display: flex;}
+.bold{font-weight:bold ;margin: auto;
 font-size: 65px;text-align: center;}
 nav{align-items:center;
 justify-content: space-around;
@@ -17,6 +20,13 @@ margin: 0 0 0 0;}
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
+}
+div button{text-align: center;
+  background-color:blue; padding: 18px 35px ; 
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+  border-radius: 5px;
 }
 nav title{font-weight:bolder;
   font height:43px;}
