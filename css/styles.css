@@ -46,4 +46,11 @@ nav li a{
 
 nav{display:flex;
     
-}
+} .head{margin: auto;}
+.mi{font-size: 50px;
+font-weight: bold;color: blue;}
+.ci{font-size: 15px;font-weight: lighter;}
+.di{text-align: center;}
+.she{background-color: lightblue;border-radius: 20px;
+margin: auto;
+padding: auto;}
