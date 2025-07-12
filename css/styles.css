@@ -54,3 +54,17 @@ font-weight: bold;color: blue;}
 .she{background-color: lightblue;border-radius: 20px;
 margin: auto;
 padding: auto;}
+.il{display: flex; color: yellow;
+}
+.hi{display: flex;border: solid 20px;
+margin: auto;padding: auto;} 
+footer{display: flex; gap: 300px
+  ;} 
+ footer input{height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;}
+   footer .jo{text-align:left;}
